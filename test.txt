@@ -1,7 +1,10 @@
-�e�X�g
+テスト
 test
 
-�v���L�V�T�[�o�̐ݒ�
-[http]�̉���
+プロキシサーバの設定
+[http]の下に
+CT室
 proxy = cache4.hac.neec.ac.jp:8080
-���R�s�[�i�v���L�V�O�̂Ƃ���Ōq���ꍇ�����K�v�A���j
+講義棟E
+proxy = cache9.hac.neec.ac.jp:8080
+をコピー（プロキシ外のところで繋ぐ場合消す必要アリ）
